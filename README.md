@@ -4,7 +4,7 @@ Composer repository hosted with [nexus-repository-composer](https://github.com/s
 
 ## Installation
 ```bash
- $ composer require elendev/nexus-composer-push
+ $ composer require memfinis/nexus-composer-push
  ```
 
 ## Usage
